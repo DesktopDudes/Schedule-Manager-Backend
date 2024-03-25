@@ -1,8 +1,4 @@
 
-# UniSync
-
-This project aims to automate the process of generating and managing class/semester schedules or timetables for students and teachers developed as part of my university coursework. It provides a convenient way to create schedules based on various constraints such as course availability, room availability, and teacher availability. The system also allows for easy modification and adjustment of schedules as needed.
-
 ## Prerequisites
 
 - Python (version 3.10 or newer)
@@ -13,13 +9,13 @@ This project aims to automate the process of generating and managing class/semes
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/neon16bit/UniSync.git
+    git clone https://github.com/DesktopDudes/Schedule-Manager-Backend.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd UniSync
+    cd Schedule-Manager-Backend
     ```
 
 3. Create a virtual environment (recommended):
